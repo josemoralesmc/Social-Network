@@ -1,12 +1,12 @@
 TECNOLOGÍAS:
 
-HTML/BOOTSTRAP/JAVASCRIPT/JQUERY/NODE.JS/EXPRESS
+HTML/BOOTSTRAP/JAVASCRIPT/JQUERY/NODE.JS/EXPRESS/MONGO
 
 
 PRUEBA:
 
 
-🔴🔴🔴  https://social-web-cr1337.herokuapp.com 🔴🔴🔴
+🔴  https://socialnetwork-i5te.onrender.com/ 
 
 
 
